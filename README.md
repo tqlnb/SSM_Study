@@ -3,7 +3,7 @@ SSM学习笔记
 
 ## Spring笔记
 
-[Spring笔记1](https://github.com/tqlnb/SSM_Study/blob/master/Spring%E7%AC%94%E8%AE%B0/spring_day01/Spring_day01.md)
+[Spring笔记1](Spring%E7%AC%94%E8%AE%B0/spring_day01/Spring_day01.md)
 
 [Spring笔记2](https://github.com/tqlnb/SSM_Study/blob/master/Spring%E7%AC%94%E8%AE%B0/spring_day02/Spring_day02.md)
 
